@@ -2,7 +2,7 @@
 title: "Regression Models Course Project"
 author: "Elizaveta Oginskaya"
 date: "June 5, 2016"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
