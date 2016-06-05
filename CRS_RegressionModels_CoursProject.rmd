@@ -16,7 +16,7 @@ In this paper a set of car parameters was analysed to find whether MPG depends o
 * **Is an automatic or manual transmission better for MPG?** Yes, with 95% confidence level we can say that in general MPG is better for automatic transmission.
 * **Quantify the MPG difference between automatic and manual transmissions.** Taking into consideration *only* transmission type automatic transmission allows to increase MPG by **7.24** miles per gallon. But there are two other significant parameters: *weight (wt)* and *1/4 mile time (qsec)*. Taking them into account as constant automatic transmission raise MPG only by average **4.30** miles per gallon.
 
-As the report should only include 2 pages of results and annexes can only contain figures, please look at to .rmd file if you have any questions to the code.
+As the report should only include 2 pages of results and annexes can only contain figures, please look at to .rmd file if you have any questions to the code: http://rpubs.com/Enotsky/crs7-regmod
 
 ## Exploring and Adjusting Data
 The datasets contained 32 observations of 11 parameters of different car models (for more information on data please visit http://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html) *(Annex 1)*
